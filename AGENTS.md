@@ -5,7 +5,7 @@ This repository contains "skills" designed to enhance your capabilities when wor
 ## Repository Structure
 
 - **`skills/`**: This directory contains the individual skills.
-- **`skills/<skill-name>/`**: Each subdirectory represents a specific skill (e.g., `apple-best-practices`).
+- **`skills/<skill-name>/`**: Each subdirectory represents a specific skill (e.g., `modern-swift-practices`).
 - **`skills/<skill-name>/SKILL.md`**: The primary instruction file for the skill. **You MUST read this file** to understand how to use the skill.
 - **`skills/<skill-name>/resources/`**: (Optional) Supplementary markdown files, templates, or code snippets referenced by the skill.
 - **`skills/<skill-name>/scripts/`**: (Optional) Helper scripts.
