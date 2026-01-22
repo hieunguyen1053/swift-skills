@@ -2,6 +2,14 @@
 
 A collection of specialized skills designed to empower AI coding agents with expert knowledge in Swift, SwiftUI, and the Apple ecosystem. These skills are derived from official Apple resources and Xcode's internal intelligence guidelines, ensuring that your agent acts as a true domain expert.
 
+## Installation
+
+To add these skills to your agent, run:
+
+```bash
+npx add-skill hieunguyen1053/swift-skills
+```
+
 ## Available Skills
 
 ### 🚀 Modern Swift Practices (`skills/modern-swift-practices`)
