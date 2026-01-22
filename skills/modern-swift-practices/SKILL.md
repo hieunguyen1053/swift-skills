@@ -1,11 +1,11 @@
 ---
-name: apple-best-practices
-description: Access and apply Apple's latest best practices for development, including Liquid Glass Design, On-device Intelligence, and Swift 6+ patterns. Use this skill to align the user's project with modern Apple standards.
+name: modern-swift-practices
+description: Access and apply modern Swift best practices, including Liquid Glass Design, On-device Intelligence, and Swift 6+ patterns.
 version: 1.0
 license: MIT
 ---
 
-# Apple Best Practices
+# Modern Swift Practices
 
 This skill provides access to exclusive technical documentation representing Apple's recommended best practices. It covers the "Liquid Glass" design system, on-device AI integration, and core framework updates found in the latest Xcode tools.
 
